@@ -1,6 +1,6 @@
 # testeLogin
-Automação simples de um caso de teste de login com python e selenium
-O cado de teste automatizado foi criado para testar a pagina de login do e-commerce americanas.com.br
+Automação simples de um caso de teste de login com python e selenium. 
+O caso de teste automatizado foi criado para testar a pagina de login do e-commerce americanas.com.br
 
 Pré Requisitos:
 - python 3.9.6
